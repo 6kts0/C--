@@ -1,3 +1,3 @@
 # Ground to C
 
-### Computer Architecure + C Programming 
+### A collection of C programs written while learning C.
